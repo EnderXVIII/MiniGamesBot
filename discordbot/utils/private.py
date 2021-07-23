@@ -1,0 +1,15 @@
+TOPGG = {  
+     "TOKEN": ""  
+ }  
+ 
+ DISCORD = {  
+      "TOKEN": "ODY3OTg5NjQyODY2MjA4ODY5.YPpIWQ.mr07SZQIB-48uGK2umncdx3ilV4",  
+      "DEVS": [612109647649832998],  # your discord ID in here  
+      "BOT_ID": 867989642866208869,   # bot discord ID here  
+      # a channel ID of your choice for these
+      "STATISTICS_CHANNEL": 803809978469056542,
+      "STACK_CHANNEL": 803809978469056542,
+      "BACKUP_CHANNEL": 803809978469056542,
+      "BUG_REPORT_CHANNEL": 803809978469056542,
+      "ERROR_CHANNEL": 803809978469056542
+  }
